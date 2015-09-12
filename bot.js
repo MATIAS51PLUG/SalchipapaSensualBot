@@ -176,7 +176,7 @@
         name: "SalchipapaSensualBoT",
         loggedInID: null,
         scriptLink: "https://rawgit.com/MATIAS51PLUG/SalchipapaSensualBot/master/bot.js",
-        cmdLink: "http://en-bot-commands.jimdo.com/",
+        cmdLink: "https://rawgit.com/bscBot/source/master/commands.md",
         chatLink: "https://rawgit.com/MATIAS51PLUG/SalchipapaSensualBot/master/es.json",
         chat: null,
         loadChat: loadChat,
