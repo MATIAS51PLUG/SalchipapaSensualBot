@@ -171,7 +171,7 @@
     var botCreatorIDs = [];
 
     var trapbot = {
-        version: "4.8.8",
+        version: "4.8.9 Matias51 copyright",
         status: false,
         name: "SalchipapaSensualBoT",
         loggedInID: null,
@@ -184,7 +184,7 @@
         retrieveFromStorage: retrieveFromStorage,
         settings: {
             botName: "SalchipapaSensualBoT",
-            language: "Spanish",
+            language: "spanish",
             chatLink: "https://rawgit.com/MATIAS51PLUG/SalchipapaSensualBot/master/es.json",
             maximumAfk: 120,
             afkRemoval: false,
