@@ -47,7 +47,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/dj-monstercat/EF-Bot/master/langIndex.json", function (json) {
+        $.get("https://rawgit.com/MATIAS51PLUG/SalchipapaSensualBot/master/langIndex.json", function (json) {
             var link = trapbot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
@@ -173,19 +173,19 @@
     var trapbot = {
         version: "4.8.8",
         status: false,
-        name: "EF-Bot",
+        name: "SalchipapaSensualBoT",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/dj-monstercat/EF-Bot/master/Bot.js",
+        scriptLink: "https://rawgit.com/MATIAS51PLUG/SalchipapaSensualBot/master/bot.js",
         cmdLink: "http://en-bot-commands.jimdo.com/",
-        chatLink: "https://rawgit.com/dj-monstercat/EF-Bot/master/en.json",
+        chatLink: "https://rawgit.com/MATIAS51PLUG/SalchipapaSensualBot/master/es.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "Checking-Bot",
-            language: "english",
-            chatLink: "https://rawgit.com/dj-monstercat/EF-Bot/master/en.json",
+            botName: "SalchipapaSensualBoT",
+            language: "Spanish",
+            chatLink: "https://rawgit.com/MATIAS51PLUG/SalchipapaSensualBot/master/es.json",
             maximumAfk: 120,
             afkRemoval: false,
             maximumDc: 60,
