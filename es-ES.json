@@ -160,7 +160,7 @@
     "jointime": "\/me [@%%NAMEFROM%%] @%%USERNAME%% ha estado en la sala por %%TIME%%.",
     "kickrank": "\/me [@%%NAME%%] no puedes kickear usuarios con rangos iguales o mayores a los tuyos.",
     "kick": "\/me [@%%NAME%%], @%%USERNAME%% seras kickeado de la comunidad por %%TIME%% minutos.",
-    "kill": "\/me @%%USERNAME%% Me apagaste... chau.",
+    "kill": "\/me  Me apagaste... chau.",
     "logout": "\/me [@%%NAME%%] Cerrando sesion %%BOTNAME%%",
     "rouletteleave": "\/me @%%NAME%% salio de la ruleta!",
     "songlink": "\/me [@%%NAME%%] Link de la cancion actual: %%LINK%%",
