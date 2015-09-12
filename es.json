@@ -59,6 +59,8 @@
     "currentlang": "\/me Idioma actualmente puesto en %%LANGUAGE%%",
     "langerror": "\/me El lenguaje que seleccionaste no esta disponible. Por favor visita %%LINK%% para encontrar la lista de lenguajes disponibles.",
     "langset": "\/me El lenguaje se ha cambiado a: %%LANGUAGE%%",
+    "retrievingdata": "Recuperando datos anteriormente guardados.",
+    "datarestored": "Datos anteriormente guardados fueron recuperados.",
     "greyuser": "Solo guardaespaldas y mayores rangos pueden correr un bot.",
     "bouncer": "El bot no puede mover personas cuando es ejecutado por un guardaespaldas.",
     "online": "\/me %%BOTNAME%% v%%VERSION%% Listo para divertirlos :D",
