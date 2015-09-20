@@ -184,7 +184,7 @@
     "pong": "\/me Pong!",
     "reload": "\/me Vuelvo enseguida.",
     "removenotinwl": "\/me [@%%NAME%%] Usuario especificado @%%USERNAME%% no esta en la lista de espera.",
-    "roomrules": "\/me Por favor lee las reglas de la sala aqui: %%LINK%%",
+    "roomrules": "\/me Por favor lee las reglas de la sala aqui:http://schnugglepuggle.wix.com/reglas#!Reglas/c137b/55fa52fa0cf26a0b0ae6a881",
     "sessionstats": "\/me [@%%NAME%%] Geniales totales: %%WOOTS%%, aburridos totales:   %%MEHS%%, agarradas: %%GRABS%%.",
     "forceskip": "\/me [%%NAME%% uso forceskip]",
     "madeby": "\/me Este bot fue hecho por %%NAME%%.",
