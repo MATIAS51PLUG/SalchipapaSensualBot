@@ -65,7 +65,7 @@
     "bouncer": "El bot no puede mover personas cuando es ejecutado por un guardaespaldas.",
     "online": "\/me %%BOTNAME%% v%%VERSION%% Listo!",
     "welcome": "\/me Bienvenido a LatinoCommunity %%NAME%%",
-    "welcomeback": "\/me Bienvenido de vuelta a Latinocommunity, %%NAME%%",
+    "welcomeback": "\/me Bienvenido de vuelta a Latinocommunity, Chupame la vagina %%NAME%%",
     "songknown": "\/me %%NAME%%, esta cancion esta en el historial de Dj.",
     "notavailable": "\/me @%%NAME%%, la cancion que tocaste no estaba disponible.",
     "timelimit": "\/me @%%NAME%%, tu cancion es mas larga que %%MAXLENGTH%% minutos, necesitas permisos para tocar canciones mas largas.",
