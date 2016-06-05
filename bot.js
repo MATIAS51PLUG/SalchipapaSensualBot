@@ -47,7 +47,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/MATIAS51PLUG/SalchipapaSensualBot/master/langIndex.json", function (json) {
+        $.get("https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/langIndex.json", function (json) {
             var link = trapbot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
@@ -171,9 +171,9 @@
     var botCreatorIDs = [];
 
     var trapbot = {
-        version: "4.8.9 Matias51 copyright",
+        version: "v4.9 edición para EPF",
         status: false,
-        name: "SalchipapaSensualBoT",
+        name: "AdrianaBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/MATIAS51PLUG/SalchipapaSensualBot/master/bot.js",
         cmdLink: "https://rawgit.com/bscBot/source/master/commands.md",
